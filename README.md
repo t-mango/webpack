@@ -1,3 +1,11 @@
+
+# 安装本分支
+
+``` bash
+$ vue init t-mango/webpack  <项目名称>
+
+```
+
 # vue-webpack-boilerplate
 
 > A full-featured Webpack setup with hot-reload, lint-on-save, unit testing & css extraction.
